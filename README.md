@@ -21,7 +21,7 @@ A dynamic Flutter application that renders contextual cards from an API, support
 
 ## APK
 
-Download the latest APK from the ![releases](https://github.com/Dante291/fam_pay/releases) section.
+Download the latest APK from the [releases](https://github.com/Dante291/fam_pay/releases) section.
 
 ## Screenshots
 
