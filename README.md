@@ -4,7 +4,7 @@
 A dynamic Flutter application that renders contextual cards from an API, supporting multiple design types and interactive features.
 
 ## Features
-- Plug-and-play container for contextual cards
+- Precaching of heavy background images for performance optimization
 - Multiple card design types (HC1, HC3, HC5, HC6, HC9)
 - Deep link handling
 - Swipe down to refresh
@@ -18,6 +18,9 @@ A dynamic Flutter application that renders contextual cards from an API, support
 3. Launch the app with `flutter run`
 
 ## APK
-Download the latest APK from the `releases` section.
+Download the latest APK from the ![releases]() section.
 
 ## Screenshots
+![Main View](assets/ss1.png)  ![Big card expanded](assets/ss2.png)
+
+![](assets/ss3.png)
