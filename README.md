@@ -1,16 +1,23 @@
-# fam_assignment
+# Contextual Cards Flutter App
 
-A new Flutter project.
+## Overview
+A dynamic Flutter application that renders contextual cards from an API, supporting multiple design types and interactive features.
 
-## Getting Started
+## Features
+- Plug-and-play container for contextual cards
+- Multiple card design types (HC1, HC3, HC5, HC6, HC9)
+- Deep link handling
+- Swipe down to refresh
+- Long press actions on cards
+- Error and loading state management
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+1. Clone the repository
+2. Run `flutter pub get`
+3. Launch the app with `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## APK
+Download the latest APK from the `releases` section.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
