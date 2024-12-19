@@ -27,11 +27,11 @@ class _HomeScreenState extends State<HomeScreen> {
   void initState() {
     super.initState();
     _initializeData();
+    _loadDismissedCards();
   }
 
   Future<void> _initializeData() async {
     try {
-      await _loadDismissedCards();
       final cardGroups = await apiService.fetchCardGroups();
       await _preloadImages(cardGroups);
       setState(() {
